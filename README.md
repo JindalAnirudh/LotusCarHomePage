@@ -4,7 +4,7 @@ A stunning, responsive website showcasing Lotus cars with modern design and inte
 
 ## 🚗 Features
 
-- **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
+- **Responsive Design**: Responsive layout that works on desktop, tablet, and mobile devices
 - **Video Backgrounds**: Immersive video backgrounds for hero sections
 - **Interactive Navigation**: Smooth sliding navigation menu with hamburger toggle
 - **Car Models Showcase**: Dedicated sections for different Lotus models (EMEYA, ELETRE, EMIRA, EVIJA)
